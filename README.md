@@ -28,10 +28,9 @@ Always curious to learn and build impactful projects.
 ---
 
 ## 📊 GitHub Stats
-![Theekshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=theekshangupta&show_icons=true&theme=radical)  
+![Theekshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=theekshangupta&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theekshangupta&layout=compact&theme=radical)  
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theekshangupta&layout=compact&theme=radical&cache_seconds=1800)
 ---
 
 ## 📈 Activity Graph
