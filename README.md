@@ -1,4 +1,4 @@
-# Theekshan# 👋 Hi, I'm Theekshan Gupta  
+# 👋 Hi, I'm Theekshan Gupta  
 
 💻 Student | Developer | Tech Enthusiast  
 
